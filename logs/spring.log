@@ -1,0 +1,7 @@
+2023-01-14 18:50:17.949  INFO 6588 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"761070952674230292","volume":100}
+2023-01-14 18:50:17.949  INFO 6588 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"761070952674230292"}
+2023-01-14 18:50:17.964  INFO 6588 --- [XNIO-1 task-34] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:kulikitaka"
+2023-01-14 18:50:18.027  INFO 6588 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : {"sessionId":"bc19ef40b0b2c06b792d4d6577774a4c","op":"voiceUpdate","guildId":"761070952674230292","event":{"token":"cea711dae879e89d","guild_id":"761070952674230292","endpoint":"us-east4446.discord.media:443"}}
+2023-01-14 18:50:19.564  INFO 6588 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: kulikitaka
+2023-01-14 18:50:19.580  INFO 6588 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : {"op":"play","guildId":"761070952674230292","track":"QAAAgQIAGlRvw7FvIFJvc2FyaW8gLSBLVUxJS0lUQUtBAA1Ub8OxbyBSb3NhcmlvAAAAAAAEDxAAC1lpMDVYeHd1SWtnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WWkwNVh4d3VJa2cAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-14 18:50:20.145  INFO 6588 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"761070952674230292","volume":20}

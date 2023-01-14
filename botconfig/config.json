@@ -1,0 +1,26 @@
+{
+   "token": "ODg4MTA4MTU5ODAwMDUzNzYw.YUN5LQ.S44UKsFRhIIBn4tGtsl32zw0Mts",
+   "prefix": "/",
+   "ownerIDS": [
+      "425781752934432779"
+   ],
+   "status": {
+      "text": "CUMMIES",
+      "text2": "YOUR",
+      "type": "PLAYING WITH YOUR",
+      "url": "https://www.pornhub.com#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
